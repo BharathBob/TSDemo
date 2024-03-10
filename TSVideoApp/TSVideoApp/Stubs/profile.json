@@ -1,0 +1,46 @@
+"data" : {
+   "username":"Viswa",
+   "likes":125,
+   "data":[
+      {
+         "postId":"post_id_1",
+         "videoUrl":"https://example.com/videos/video1.mp4",
+         "thumbnail_url":"https://image.example.com/thumbnail1.png",
+         "username":"creative_coder",
+         "likes":111,
+         "postDate": "01 Mar, 2024"
+      },
+      {
+         "postId":"post_id_2",
+         "videoUrl":"https://example.com/videos/video2.mp4",
+         "thumbnail_url":"https://image.example.com/thumbnail2.png",
+         "username":"tech_enthusiast",
+         "likes":23,
+         "postDate": "01 Mar, 2024"
+      },
+      {
+         "postId":"post_id_3",
+         "videoUrl":"https://example.com/videos/video3.mp4",
+         "thumbnail_url":"https://image.example.com/thumbnail3.png",
+         "username":"nature_lover",
+         "likes":1904,
+         "postDate": "02 Mar, 2024"
+      },
+      {
+         "postId":"post_id_4",
+         "videoUrl":"https://example.com/videos/video4.mp4",
+         "thumbnail_url":"https://image.example.com/thumbnail4.png",
+         "username":"travel_blogger",
+         "likes":334,
+         "postDate": "06 Mar, 2024"
+      },
+      {
+         "postId":"post_id_5",
+         "videoUrl":"https://example.com/videos/video5.mp4",
+         "thumbnail_url":"https://image.example.com/thumbnail5.png",
+         "username":"foodie",
+         "likes":47,
+         "postDate": "08 Mar, 2024"
+      }
+   ]
+}

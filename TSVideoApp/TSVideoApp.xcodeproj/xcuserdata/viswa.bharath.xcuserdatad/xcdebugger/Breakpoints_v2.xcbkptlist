@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "26307932-9A5B-4893-9425-DC87B8F82549"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14F9C147-1508-4E74-9922-70CF9EBB8306"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TSVideoApp/Utilities/Refreshable.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body(content:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15CDD530-8ACE-48DE-910A-5AA10CA54665"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TSVideoApp/Views/Home/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7C915BA-1040-4C05-86DF-3FD9CE8C0F6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TSVideoApp/Views/Home/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B7C915BA-1040-4C05-86DF-3FD9CE8C0F6C - 7ff2e913262a8bda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;TSVideoApp.VideoPost&gt;, Swift.Optional&lt;Swift.String&gt;, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;TSVideoApp.SpinnerView, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt; in TSVideoApp.HomeView.body.getter : some"
+                  moduleName = "TSVideoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viswa.bharath/Projects/TS/TSVideoApp/TSVideoApp/Views/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "192">
+               </Location>
+               <Location
+                  uuid = "B7C915BA-1040-4C05-86DF-3FD9CE8C0F6C - e7363e9f70580355"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TSVideoApp.VideoPost) -&gt; &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;TSVideoApp.VideoPost&gt;, Swift.Optional&lt;Swift.String&gt;, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;TSVideoApp.SpinnerView, SwiftUI.VStack&lt;&lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0&gt;&gt; in TSVideoApp.HomeView.body.getter : some"
+                  moduleName = "TSVideoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viswa.bharath/Projects/TS/TSVideoApp/TSVideoApp/Views/Home/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
